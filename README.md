@@ -3,3 +3,4 @@ In this competition, we are provided with a transaction data where there were tw
 A classification problem where we have to predict whether a transaction is fradulent or not, and
 A regression problem where we have to predict the annual return of a company using the various parameter
 related to various trading.
+This repository contains the solution for redgression problem. 
